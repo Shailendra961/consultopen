@@ -164,7 +164,7 @@ const Dashboard = () => {
                                 </div>
                             </div>
                             <div className="relative">
-                                <div className="flex items-center justify-between p-4 rounded-md border border-slate-200 bg-gray-200/40 blur-[3px] ">
+                                <div className="flex items-center justify-between p-4 rounded-md border border-slate-200 bg-gray-200/40 blur-xs ">
                                     <div className="flex">
                                         <input id="checkbox-des2" type="checkbox" className="w-5 h-5 accent-primary hover:accent-primary cursor-pointer rounded-md mr-2" />
                                         <label htmlFor="checkbox-des2" className=" cursor-pointer">
